@@ -6,7 +6,7 @@ environment featuring rides, stalls, decorations, and interactive mini-games.
 
 ---
 
-## Demon
+## Demo
 
 > https://youtu.be/54HNsVIwGT0?si=W2o81PHDbN5VMO53
 ---
